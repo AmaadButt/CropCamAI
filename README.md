@@ -1,0 +1,2 @@
+# CropCamAI
+Composition Camera App
